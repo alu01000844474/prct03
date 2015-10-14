@@ -7,8 +7,8 @@ que no afecten a la rama principal. Y una vez hechos los cambios se procede a un
 
 
 
-
-
+- ¿Qué es una reorganización?
+Permite llevar los cambios(los commits) de una rama a otra rama como master como hubiesen sido commiteados directamente despues del ultimo commit de master en este caso.
 
 
 
