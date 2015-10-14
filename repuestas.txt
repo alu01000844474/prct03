@@ -3,3 +3,20 @@ Respuestas a las preguntas de la prática 3
 - ¿Cual es el propósito de trabajar con múltiples ramas?
 La creación de multiples ramas, permite llevar cambios experimentales
 que no afecten a la rama principal. Y una vez hechos los cambios se procede a unir la rama.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- ¿Cual es la ventaja de reorganizar(rebase)?
+
+Permite tener una disposicion mas lineal de los cambios y menos ramificado. Este aun así no se recomienda usar en repositorios remotos.
